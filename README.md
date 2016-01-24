@@ -2,6 +2,10 @@
 
 Get image url by radikal.ru page url:
 
+```bash
+composer require bors/web-radikal=@dev
+```
+
 ```php
 require 'vendor/autoload.php';
 
